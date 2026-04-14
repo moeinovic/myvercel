@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://bobo.moeinovic.me/$1"
+      "destination": "http://217.160.54.224:80/$1"
     }
   ]
 }
